@@ -1,0 +1,10 @@
+Get: lê o recursos ou recursos
+Post: Cria uma nova entrada.
+Put: Atualiza um recurso.
+Delete: Destrói um recurso.
+Usar os controllers da api num namespace que é uma pasta dentro de controllers/api.
+
+Gerar o usuário
+
+rails generate model User email:string password_digest:string
+model é o elemento que contem os dados e lógica relacionada a eles.
