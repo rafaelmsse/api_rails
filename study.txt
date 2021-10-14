@@ -8,3 +8,5 @@ Gerar o usuário
 
 rails generate model User email:string password_digest:string
 model é o elemento que contem os dados e lógica relacionada a eles.
+
+rails generate controoller api::v1::users
